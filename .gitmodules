@@ -1,0 +1,16 @@
+[submodule "42cursus"]
+	path = 42cursus
+	url = https://github.com/jinmugo/42cursus
+	branch = main
+[submodule "Obsidian"]
+	path = Obsidian
+	url = https://github.com/JinMuGo/Obsidian
+	branch = main
+[submodule "RFS"]
+	path = RFS
+	url = https://github.com/42ForYou/RFS
+	branch = main
+[submodule "RRFS"]
+	path = RRFS
+	url = https://github.com/42ForYou/RRFS
+	branch = main
